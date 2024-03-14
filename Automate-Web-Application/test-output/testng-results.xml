@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-14T12:09:14 IST" name="Default suite" finished-at="2024-03-14T12:09:55 IST" duration-ms="41703">
+  <suite started-at="2024-03-14T14:29:08 IST" name="Default suite" finished-at="2024-03-14T14:29:49 IST" duration-ms="41668">
     <groups>
     </groups>
-    <test started-at="2024-03-14T12:09:14 IST" name="Default test" finished-at="2024-03-14T12:09:55 IST" duration-ms="41703">
+    <test started-at="2024-03-14T14:29:08 IST" name="Default test" finished-at="2024-03-14T14:29:49 IST" duration-ms="41668">
       <class name="flipcard.App">
-        <test-method is-config="true" signature="setupBraveWebDriver()[pri:0, instance:flipcard.App@33065d67]" started-at="2024-03-14T12:09:14 IST" name="setupBraveWebDriver" finished-at="2024-03-14T12:09:19 IST" duration-ms="5146" status="PASS">
+        <test-method is-config="true" signature="setupBraveWebDriver()[pri:0, instance:flipcard.App@33065d67]" started-at="2024-03-14T14:29:08 IST" name="setupBraveWebDriver" finished-at="2024-03-14T14:29:14 IST" duration-ms="6254" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupBraveWebDriver -->
-        <test-method signature="testFlipkart()[pri:0, instance:flipcard.App@33065d67]" started-at="2024-03-14T12:09:19 IST" name="testFlipkart" finished-at="2024-03-14T12:09:53 IST" duration-ms="34126" status="PASS">
+        <test-method signature="testFlipkart()[pri:0, instance:flipcard.App@33065d67]" started-at="2024-03-14T14:29:14 IST" name="testFlipkart" finished-at="2024-03-14T14:29:49 IST" duration-ms="35000" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFlipkart -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:flipcard.App@33065d67]" started-at="2024-03-14T12:09:53 IST" name="tearDown" finished-at="2024-03-14T12:09:55 IST" duration-ms="2358" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:flipcard.App@33065d67]" started-at="2024-03-14T14:29:49 IST" name="tearDown" finished-at="2024-03-14T14:29:49 IST" duration-ms="357" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
